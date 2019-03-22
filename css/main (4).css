@@ -1,0 +1,43 @@
+.quadrado{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	background-color: #A9A9A9;
+}
+.quadrado2{
+	position: absolute;
+	top: 208px;
+	width: 300px;
+	height: 400px;
+	background-color: #A9A9A9;
+}
+.margem2{
+	margin-left: 5px;
+}
+.quadrado3{
+	position: absolute;
+	top: 608px;
+	width: 1100px;
+	height: 40px;
+	background-color: black;
+	color: white;
+}
+.margem{
+	margin-left: 420px;
+	margin-top: 10px;
+}
+.quadrado4{
+	position: absolute;
+	left: 308px;
+	width: 800px;
+	height: 200px;
+	background-color: #A9A9A9;
+}
+.quadrado5{
+	position: absolute;
+	top: 208px;
+	left: 308px;
+	width: 800px;
+	height: 400px;
+	background-color: #A9A9A9;
+}
